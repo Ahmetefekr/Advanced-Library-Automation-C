@@ -43,9 +43,9 @@ The system operates with specific CSV file formats. Ensure these files exist in 
 
 ## 📸 Functionality
 The application runs on a CLI (Command Line Interface) menu system allowing:
-Student Management: Add/Delete/Update via Linked List operations.
-Book & Author Management: Full CRUD operations.
-Borrow/Return Operations: Real-time date input and validation.
-Reporting: List students with penalties or unreturned books.
+* Student Management: Add/Delete/Update via Linked List operations.
+* Book & Author Management: Full CRUD operations.
+* Borrow/Return Operations: Real-time date input and validation.
+* Reporting: List students with penalties or unreturned books.
 
-Developed by Ahmet Efe Karahan as a Computer Engineering Capstone Project (BLM1031).
+** Developed by Ahmet Efe Karahan as a Computer Engineering Capstone Project (BLM1031).
