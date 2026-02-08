@@ -1,10 +1,7 @@
 # 📚 Advanced Library Automation System in C
 
 > A robust, file-based library management system that simulates a relational database using **Doubly Linked Lists**, **Dynamic Arrays**, and **CSV persistence** without any SQL engine.
-
-![C](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data_Structures-Doubly_Linked_List-red?style=for-the-badge)
-![Database](https://img.shields.io/badge/Storage-Custom_CSV_Db-yellow?style=for-the-badge)
+> PDF Report contains screenshots of the project and instructions on how to use it.
 
 ## 📖 Project Overview
 This project was developed to demonstrate low-level memory management and algorithm design capabilities in C. Unlike simple automation tools, this system manages complex **Many-to-Many relationships** between Books and Authors and handles dynamic memory allocation manually.
@@ -48,4 +45,5 @@ The application runs on a CLI (Command Line Interface) menu system allowing:
 * Borrow/Return Operations: Real-time date input and validation.
 * Reporting: List students with penalties or unreturned books.
 
-**Developed by Ahmet Efe Karahan as a Computer Engineering Capstone Project (BLM1031).**
+---
+**Developed by Ahmet Efe Karahan as part of the BLM1031 Structural Programming course curriculum at Yildiz Technical University.**
