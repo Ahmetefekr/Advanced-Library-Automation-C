@@ -48,4 +48,4 @@ The application runs on a CLI (Command Line Interface) menu system allowing:
 * Borrow/Return Operations: Real-time date input and validation.
 * Reporting: List students with penalties or unreturned books.
 
-** Developed by Ahmet Efe Karahan as a Computer Engineering Capstone Project (BLM1031).
+** Developed by Ahmet Efe Karahan as a Computer Engineering Capstone Project (BLM1031). **
