@@ -45,5 +45,9 @@ The application runs on a CLI (Command Line Interface) menu system allowing:
 * Borrow/Return Operations: Real-time date input and validation.
 * Reporting: List students with penalties or unreturned books.
 
+## Note
+📄 **[Click here to view the Project Description (PDF)](Structural-Project.pdf)**
+📄 **[Click here to view the Full Report (PDF)](Report.pdf)**
+
 ---
 **Developed by Ahmet Efe Karahan as part of the BLM1031 Structural Programming course curriculum at Yildiz Technical University.**
